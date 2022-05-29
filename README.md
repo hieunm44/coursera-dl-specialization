@@ -21,7 +21,7 @@ There are no assignments in this week.
 
 ### Week 1
 * Assignment 1: Initialization
-* Assignment 2: W1A2 - Regularization
+* Assignment 2: Regularization
 * Assignment 3: Gradient Checking
 
 ### Week 2
