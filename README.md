@@ -31,6 +31,7 @@ There are no assignments in this week.
 * Assignment 1: TensorFlow Introduction
 
 ## Course 3 - Structuring Machine Learning Projects
+There are no assignments in this course.
 
 ## Course 4: Convolutional Neural Networks
 
