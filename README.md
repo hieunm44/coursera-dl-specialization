@@ -3,6 +3,9 @@
 
 ## Course 1 - Neural Networks and Deep Learning
 
+### Week 1
+There are no assignments in this week.
+
 ### Week 2
 * Assignment 1: Python Basics with Numpy
 * Assignment 2: Logistic Regression with a Neural Network Mindset
