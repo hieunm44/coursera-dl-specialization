@@ -8,7 +8,7 @@ from tensorflow.keras.layers import BatchNormalization
 from tensorflow.keras.models import Model
 from tensorflow.keras.regularizers import l2
 
-from ..utils import compose
+from ..utils.utils import compose
 
 # Partial wrapper for Convolution2D with static default argument.
 _DarknetConv2D = partial(Conv2D, padding='same')

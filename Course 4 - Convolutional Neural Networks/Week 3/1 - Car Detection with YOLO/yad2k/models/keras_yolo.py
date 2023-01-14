@@ -8,7 +8,7 @@ from tensorflow.keras.layers import Lambda
 from tensorflow.keras.layers import concatenate
 from tensorflow.keras.models import Model
 
-from ..utils import compose
+from ..utils.utils import compose
 from .keras_darknet19 import (DarknetConv2D, DarknetConv2D_BN_Leaky,
                               darknet_body)
 

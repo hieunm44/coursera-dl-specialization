@@ -1,10 +1,10 @@
-# Deep Learning Specialization
-<a href="https://www.coursera.org/specializations/deep-learning" target="blank">Link on Coursera</a>.
+# Coursera Deep Learning Specialization
+[Link on Coursera.](https://www.coursera.org/specializations/deep-learning)
 
 ## Course 1 - Neural Networks and Deep Learning
 
 ### Week 1
-There are no assignments in this week.
+No assignments.
 
 ### Week 2
 * Assignment 1: Python Basics with Numpy
@@ -31,7 +31,7 @@ There are no assignments in this week.
 * Assignment 1: TensorFlow Introduction
 
 ## Course 3 - Structuring Machine Learning Projects
-There are no assignments in this course.
+No assignments.
 
 ## Course 4: Convolutional Neural Networks
 
