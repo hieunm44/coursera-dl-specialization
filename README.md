@@ -33,7 +33,7 @@ No assignments.
 ## Course 3 - Structuring Machine Learning Projects
 No assignments.
 
-## Course 4: Convolutional Neural Networks
+## Course 4 - Convolutional Neural Networks
 
 ### Week 1
 * Assignment 1: Convolutional Model: Step by Step
@@ -51,7 +51,7 @@ No assignments.
 * Assignment 1: Face Recognition
 * Assignment 2: Art Generation with Neural Style Transfer
   
-## Course 5: Sequence Models
+## Course 5 - Sequence Models
 
 ### Week 1
 * Assignment 1: Building a Recurrent Neural Network - Step by Step
