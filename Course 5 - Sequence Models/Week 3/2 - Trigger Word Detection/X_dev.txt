@@ -1,1 +1,2 @@
 https://github.com/PJY-609/Trigger-word-detection
+cat X_dev.npy.tar.gz* > temp.tar.gz

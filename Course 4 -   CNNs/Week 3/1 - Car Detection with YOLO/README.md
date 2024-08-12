@@ -1,0 +1,1 @@
+Download YOLOv2 model at https://www.kaggle.com/models/hieunm44/yolov2, then put the model file in the folder `model_data`.
