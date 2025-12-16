@@ -1,11 +1,10 @@
 # [Coursera] Deep Learning Specialization
 
-<div align="center">
+<div style="text-align: center;">
     <img src="https://d15cw65ipctsrr.cloudfront.net/a4/079d5e7c7b45ac9107f22bfcfeab91/Specialization-logo.png" height=400"/>
 </div>
 
-## Overview
-This repository provides solutions for course assignments in the [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning). There are a total of five couses in this specialization:
+Link: https://www.coursera.org/specializations/deep-learning
 
 ## Course 1 - Neural Networks and Deep Learning
 
@@ -59,6 +58,7 @@ __Assignment 2__: Image Segmentation with U-Net
 ### Week 4 - Special Applications: Face Recognition & Neural Style Transfer
 __Assignment 1__: Face Recognition \
 __Assignment 2__: Art Generation with Neural Style Transfer
+
   
 ## Course 5 - Sequence Models
 
@@ -80,6 +80,6 @@ __Assignment 1__: Transformer Architecture with TensorFlow \
 __Assignment 2__: Transformer Network Application Named-Entity Recognition \
 __Assignment 3__: Transformer Network Application Question Answering
 
-<div align="center">
-    <img src="DL Specialization.png" height=600"/>
+<div style="text-align: center;">
+    <img src="DL_Specialization.png" height=600"/>
 </div>
